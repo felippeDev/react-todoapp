@@ -1,5 +1,6 @@
 {
     "name": "React TodoApp",
+    "short_name": "ReactTodoApp",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
